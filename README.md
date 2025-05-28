@@ -49,7 +49,9 @@ A fully functional and modern **Blog Listing Web Application** built using **Nex
 > Place your screenshots in a `screenshots/` folder
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./Images/Home 1.png)
+![Home Page](./Images/Home2.png)
+![Home Page](./Images/Home3.png)
 
 ### ➕ Add Blog
 ![Add Blog](./screenshots/add-blog.png)
@@ -58,7 +60,7 @@ A fully functional and modern **Blog Listing Web Application** built using **Nex
 ![Search Blog](./screenshots/search.png)
 
 ### 📂 Category Page
-![Category](./screenshots/category.png)
+![Category](./Images/category.png)
 
 ---
 
