@@ -53,27 +53,37 @@ A fully functional and modern **Blog Listing Web Application** built using **Nex
 
 ### 🏠 Home Page
 ![Home Page](./Images/Home1.png)
+&nbsp;
 ![Home Page](./Images/Home2.png)
+&nbsp;
 ![Home Page](./Images/Home3.png)
-
+&nbsp;
+&nbsp;
 ### ➕ Add Blog
 ![Add Blog](./Images/Create.png)
-
+&nbsp;
+&nbsp;
 ### 🔍 Search Feature
 ![Search Blog](./Images/Search.png)
-
+&nbsp;
+&nbsp;
 ### 📂 Category Page
-![Category](./Images/category1.png)
-![Category](./Images/category2.png)
-![Category](./Images/category3.png)
-
+![Category](./Images/Category1.png)
+&nbsp;
+![Category](./Images/Category2.png)
+&nbsp;
+![Category](./Images/Category3.png)
+&nbsp;
+&nbsp;
 ### ℹ️ About Page
 ![About Page](./Images/About1.png)
+&nbsp;
 ![About Page](./Images/About2.png)
-
+&nbsp;
+&nbsp;
 ### 📞 Contact Page
 ![Contact](./Images/Contact.png)
-
+&nbsp;
 ---
 
 ## 🛠️ Getting Started
