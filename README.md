@@ -28,6 +28,10 @@ A fully functional and modern **Blog Listing Web Application** built using **Nex
   Static about page with basic app information.
 
 
+- 📞 **Contact Page**
+  - Static form-style layout for user feedback/contact (non-functional)
+
+
 
 - 🎨 **Tailwind CSS UI**  
   Fully responsive and minimal UI for a smooth user experience.
@@ -40,27 +44,35 @@ A fully functional and modern **Blog Listing Web Application** built using **Nex
 - **Library**: React.js
 - **Styling**: Tailwind CSS
 - **State**: React Hooks (`useState`, `useEffect`)
-- **Deployment**: Vercel
+
 
 ---
 
 ## 📸 Screenshots
 
-> Place your screenshots in a `screenshots/` folder
 
 ### 🏠 Home Page
-![Home Page](./Images/Home 1.png)
+![Home Page](./Images/Home1.png)
 ![Home Page](./Images/Home2.png)
 ![Home Page](./Images/Home3.png)
 
 ### ➕ Add Blog
-![Add Blog](./screenshots/add-blog.png)
+![Add Blog](./Images/Create.png)
 
 ### 🔍 Search Feature
-![Search Blog](./screenshots/search.png)
+![Search Blog](./Images/Search.png)
 
 ### 📂 Category Page
-![Category](./Images/category.png)
+![Category](./Images/category1.png)
+![Category](./Images/category2.png)
+![Category](./Images/category3.png)
+
+### ℹ️ About Page
+![About Page](./Images/About1.png)
+![About Page](./Images/About2.png)
+
+### 📞 Contact Page
+![Contact](./Images/Contact.png)
 
 ---
 
