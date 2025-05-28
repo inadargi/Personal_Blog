@@ -90,8 +90,8 @@ A fully functional and modern **Blog Listing Web Application** built using **Nex
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/inadargi/Personal_Blog.git
+cd Personal_Blog
 
 # Install dependencies
 npm install
